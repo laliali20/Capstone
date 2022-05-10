@@ -2,8 +2,7 @@
 
 ## Generating Product Price Recommendations For Revenue Optimization
 
-This repo contains code and other resources for a model that forecasts the number of visits for wikipedia articles as well as the goodle trend expected over the next one year.
-
+This repo contains code, simulation model and datasets for the purpose of the project.
 
 ### About the project 
 
